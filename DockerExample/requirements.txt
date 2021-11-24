@@ -1,0 +1,14 @@
+certifi
+click
+colorama
+Flask
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+numpy
+pandas
+python-dateutil
+pytz
+Werkzeug
+wincertstore
